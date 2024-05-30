@@ -6,7 +6,7 @@ import random
 class MinecraftNameSniper:
     def __init__(self, username, password, target_username):
         self.username = username
-        self.password = password
+        self.password = passwsdnbmsfsfsfsdord
         self.target_username = target_username
         self.session = requests.Session()
         self.authenticated = False
